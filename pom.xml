@@ -19,7 +19,7 @@
 	<properties>
 	    <spring.maven.artifact.version>4.3.16.RELEASE</spring.maven.artifact.version>
 		<egovframework.rte.version>3.8.0</egovframework.rte.version>
-	</properties>
+	</properties> 
 
 	<repositories>
 	    <repository>
